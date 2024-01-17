@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-smbs!6dn#xraicma-$8gkg0ot^vafc0*s#fe$40^19o)-(9_mu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', '172.16.151.33']
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'conversation',
     'core',
     'dashboard',
     'item',
