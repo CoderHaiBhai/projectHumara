@@ -1,6 +1,6 @@
 # TryDjango
 ### Description: 
-Try Django is a practice project that utilises the popular python backend famework **Django** to create a web application. The Web application resembles online marketplaces like *ebay* and has similar functionality. The web app does not utilse a frontend framework and uses simple HTML & tailwing CSS.
+Try Django is a practice project that utilises the popular python backend famework **Django** to create a web application. The Web application resembles online marketplaces like *ebay* and has similar functionality. The web app does not utilse a frontend framework and uses simple HTML & tailwind CSS.
 
 The project has significant focus on code structure and code quality. The code is well structured and uses descriptive variable. Class and function names to improve readability. Functionalities are seperated into diffrent Django apps to aid readability and maintainability.  
 
